@@ -1,1 +1,1 @@
-web: voila --Voila.ip=0.0.0.0 --template=osscar --VoilaConfiguration.enable_nbextensions=True ./ --port=$PORT --no-browser --MappingKernelManager.cull_interval=60 --MappingKernelManager.cull_idle_timeout=120 --MappingKernelManager.cull_busy=True 
+web: voila --Voila.ip=0.0.0.0 --template=osscar --VoilaConfiguration.enable_nbextensions=True ./ --port=$PORT --no-browser --MappingKernelManager.cull_interval=500 --MappingKernelManager.cull_idle_timeout=500 --MappingKernelManager.cull_busy=True 
