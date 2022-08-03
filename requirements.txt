@@ -1,5 +1,5 @@
 pip==22.2.1
-widget-bandsplot==0.3.3
+widget-bandsplot==0.3.4
 voila==0.3.6
 voila-osscar-template==0.3.2
 matplotlib==3.5.2
