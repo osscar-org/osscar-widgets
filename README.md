@@ -1,11 +1,9 @@
 # osscar-widgets
 A collection of all custom OSSCAR widgets.
 
-1. A widget to plot bandstructure and density of states.
-
-<img src="./bandsplot/widget-bandsplot.gif" height="300">
-
-
+| Package Name | Description | GitHub repository | Binder | Materials Cloud |
+| ------------- |:-------------:| -----:| -----:| -----:|
+| widget-bandsplot | A widget to plot bandstructure and DOS | https://github.com/osscar-org/widget-bandsplot | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/osscar-widgets/master?urlpath=%2Fvoila%2Frender%2Fbandsplot%2Fwidget-bandsplot.ipynb) | [![Materials Cloud Tool osscar-qmcourse](https://raw.githubusercontent.com/materialscloud-org/mcloud-badge/main/badges/img/mcloud_badge_tools.svg)](https://osscar-widgets.materialscloud.io/voila/render/bandsplot/widget-bandsplot.ipynb) | 
 
 
 ## Acknowledgements
