@@ -1,5 +1,9 @@
 # osscar-widgets
-A collection of all custom OSSCAR widgets.
+
+A collection of all custom OSSCAR widgets. One can quickly check the appearance
+of the widgets with Materials Cloud links or use binder link to try the widgets
+in JupyterLab.
+
 
 | Package Name | Description | GitHub repository | Binder | Materials Cloud |
 | ------------- |:-------------:| -----:| -----:| -----:|
