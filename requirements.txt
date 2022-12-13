@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 pip==22.3.1
 widget-bandsplot==0.3.5
+=======
+pip==22.2.2
+>>>>>>> 1d36e5c (fix conflict)
 voila==0.4.0
 voila-osscar-template==0.3.2
 <<<<<<< HEAD
