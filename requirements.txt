@@ -3,12 +3,16 @@ widget-bandsplot==0.3.5
 voila==0.4.0
 voila-osscar-template==0.3.2
 <<<<<<< HEAD
+<<<<<<< HEAD
 matplotlib==3.6.2
 jupyterlab==3.5.1
 ipywidgets==8.0.3
 git+https://github.com/osscar-org/widget-periodictable@develop
 =======
 matplotlib==3.5.3
+=======
+matplotlib==3.6.2
+>>>>>>> 27d6118 (Bump matplotlib from 3.5.3 to 3.6.2)
 jupyterlab==3.4.8
 ipywidgets==7.7.2
 widget-bandsplot==0.4.0
