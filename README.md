@@ -1,3 +1,5 @@
+# **This repository is archived since it is not maintained anymore**
+
 # osscar-widgets
 
 A collection of all custom OSSCAR widgets. One can quickly check the appearance
